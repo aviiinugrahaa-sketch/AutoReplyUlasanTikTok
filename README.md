@@ -1,7 +1,7 @@
 # ⚡ Tokopedia Review Auto-Reply
 
 Chrome Extension (Manifest V3) untuk mempercepat pekerjaan seller membalas
-ulasan pembeli di **Tokopedia Seller Center**. Dari yang biasanya scroll,
+ulasan pembeli di **TikTok Seller Center**. Dari yang biasanya scroll,
 cari tombol, ketik ulang template berkali-kali, cukup 2 klik per ulasan
 (atau 0 klik di mode otomatis penuh).
 
