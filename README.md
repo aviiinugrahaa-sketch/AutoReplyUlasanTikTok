@@ -5,6 +5,18 @@ ulasan pembeli di **TikTok Seller Center**. Dari yang biasanya scroll,
 cari tombol, ketik ulang template berkali-kali, cukup 2 klik per ulasan
 (atau 0 klik di mode otomatis penuh).
 
+## 🎬 Demo & Bukti Kerja
+
+Ingin melihat extension ini bekerja langsung? Berikut dokumentasinya:
+
+| Materi | Keterangan | Link |
+|--------|------------|------|
+| ▶️ **Video Demo** | Rekaman layar proses balas ulasan dari awal sampai akhir, mulai dari deteksi tombol, pengisian template, sampai balasan terkirim | [Tonton di YouTube](LINK_YOUTUBE_KAMU) |
+| 📂 **Dokumentasi & Screenshot** | Kumpulan tangkapan layar panel kontrol, hasil balasan, dan contoh pengujian | [[Buka di Google Drive](https://drive.google.com/file/d/1YDIXfEaG1o58l6GAH0rQ7Z16Ys4Rv8Wk/view?usp=sharing)] |
+
+> 💡 **Tips menonton:** Video menampilkan perbandingan antara membalas manual
+> dan menggunakan extension, sehingga terlihat berapa banyak waktu yang dihemat.
+
 ## ✨ Fitur
 
 - 🔍 **Deteksi otomatis** tombol BALAS pada ulasan yang belum dibalas
